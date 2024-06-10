@@ -1,6 +1,7 @@
 I'm Joyce!  
 
 💻 I'm currently...  
- - Freshman at Cornell University
+ - Sophomore at Cornell University
  - Majoring in Computer Science
- - Member of Cornell Cup Robotics CS Team
+ - Research Assistant at EmPRISE Lab
+ - Member of Cornell Data Science 
